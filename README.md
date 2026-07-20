@@ -1,10 +1,10 @@
-# statarb
+# Alpha-Strike
 
 A statistical arbitrage backtesting system for S&P 500 pairs trading. Screens
 sector-mate pairs for cointegration, backtests a 4-parameter mean-reversion
 strategy grid (1,000+ variants) with walk-forward validation, and separates
 signal from noise using the Deflated Sharpe Ratio (Bailey & Lopez de Prado)
-and permutation testing.
+and permutation testing. The Python package is named `statarb`.
 
 ## Why this exists
 
