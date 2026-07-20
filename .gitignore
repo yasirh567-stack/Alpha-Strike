@@ -6,5 +6,10 @@ data_cache/**
 reports/*.png
 reports/*.md
 !reports/.gitkeep
+# One real snapshot is force-added and kept as an example of actual output;
+# `python main.py` regenerates and overwrites these locally.
+!reports/report.md
+!reports/equity_curves.png
+!reports/sharpe_histograms.png
 .DS_Store
 *.egg-info/
