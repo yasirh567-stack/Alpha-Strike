@@ -99,9 +99,6 @@ has broader wheel support there than on very recent Python releases.
   as-of-date, so a stock that changed sector during the backtest is grouped
   by where it sits today.
 
-This is a research/portfolio project, not a trading system — the biases
-above are exactly the kind of thing that would need fixing before real
-capital touches this.
 
 ## Tests
 
